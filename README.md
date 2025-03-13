@@ -2,9 +2,12 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Sayan+%3C3;TN+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
+</div>
+
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-# 💫 About Me:
 🔭 I’m currently working on Java<br><br>🌱 I’m currently learning Cloud Computing<br><br>💬 Ask me about C, Java, AWS<br><br>📫 How to reach me sayan67125@gmail.com
 
 
