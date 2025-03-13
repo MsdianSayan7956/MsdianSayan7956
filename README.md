@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
 # 💫 About Me:
 🔭 I’m currently working on Java<br><br>🌱 I’m currently learning Cloud Computing<br><br>💬 Ask me about C, Java, AWS<br><br>📫 How to reach me sayan67125@gmail.com
 
