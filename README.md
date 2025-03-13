@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
+
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
+
 # 💫 About Me:
 🔭 I’m currently working on Java<br><br>🌱 I’m currently learning Cloud Computing<br><br>💬 Ask me about C, Java, AWS<br><br>📫 How to reach me sayan67125@gmail.com
 
