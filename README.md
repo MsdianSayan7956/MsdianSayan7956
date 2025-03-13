@@ -21,9 +21,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MsdianSayan7956&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MsdianSayan7956&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Sayan+%3C3;TN+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
 </div>
@@ -113,7 +110,7 @@
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2023 Shourya Sharma
+  &copy; 2025 Sayan Bhattacharjee
 </div>
 
 ---
