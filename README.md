@@ -14,6 +14,9 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
+:credit_card: My full name is **Sayan Bhattacharjee**<br><br>
+:earth_asia: I'm living now in **Bally, West Bengal, India**
+
 🔭 I’m currently working on Java<br><br>🌱 I’m currently learning Cloud Computing<br><br>💬 Ask me about C, Java, AWS<br><br>📫 How to reach me sayan67125@gmail.com
 
  <br><br>
@@ -31,9 +34,7 @@
 </div>
 
 
-- :credit_card: My full name is **Sayan Bhattacharjee** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
-- :earth_asia: I'm living now in **Bally, West Bengal, India**
-- :sunglasses: My quote is **_"It's never too late - never too late to start over, never too late to be happy"_**
+
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
