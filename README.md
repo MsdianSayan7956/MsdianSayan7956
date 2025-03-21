@@ -15,7 +15,7 @@
 
 
 :credit_card: My full name is **Sayan Bhattacharjee**<br><br>
-:earth_asia: I'm living now in **Kolka, West Bengal, India**
+:earth_asia: I'm living now in **Kolkata, West Bengal, India**
 
 🔭 I’m currently working on Java<br><br>🌱 I’m currently learning Cloud Computing<br><br>💬 Ask me about C, Java, AWS<br><br>📫 How to reach me sayan67125@gmail.com
 
